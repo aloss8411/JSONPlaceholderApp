@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct InstagramAppApp: App {
+struct JSONPlaceholderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SearchView()
         }
     }
 }
