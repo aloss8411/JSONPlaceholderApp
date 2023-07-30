@@ -6,3 +6,5 @@ build by SwiftUI
 －熟悉MVVM架構
 －理解宣告式與建構式的Coding方法
 －認識SwiftUI
+
+－第一次轉職為IOS Developer時的作品
